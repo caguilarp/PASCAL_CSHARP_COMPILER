@@ -1,1 +1,10 @@
 C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\FSharp.Core.dll
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\FSharp.Core.xml
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\Compilador\Compilador\obj\Debug\Compilador.pdb
